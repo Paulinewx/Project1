@@ -5,8 +5,15 @@ Members : Harkirat Kaur & Pauline Dhenin
 
 # Summary : 
 Project description
+
 Question
+
 Workflow 
+First day
+
+Second day
+third day 
+last day 
 Databases 
 Link
 # Project description:
@@ -19,11 +26,11 @@ The question we asked ourselves is the following : what is the correlation betwe
 
 # Databases 
 We used data from : 
-- Covid-19 data : 
-- Pole emploi' website : job offers distribution on the French territory published between September 2020 and 2021 third semester
-- Data Scrapping :   
+- <a href="https://www.data.gouv.fr/fr/datasets/chiffres-cles-concernant-lepidemie-de-covid19-en-france/">Covid-19 data</a>
+- <a href="https://statistiques.pole-emploi.org/offres/offres?fk=D&lc=0&nd=0&pp=20203-20211&ss=1">Pole emploi' website </a>: job offers distribution on the French territory published between September 2020 and 2021 third semester
+- Data Scrapping :   wikipedia?
 
 # Links
-* <a href="https://trello.com/b/ONCM7h5O/okrs/">Trello</a>
+* <a href="https://trello.com/b/xzHaVUwm/kanban-template">Trello</a>
 * Livrable
-*  Database 
+*  
