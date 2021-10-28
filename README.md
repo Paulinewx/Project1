@@ -9,12 +9,7 @@ Project description
 Question
 
 Workflow 
-First day
-
-Second day
-third day 
-last day 
-Databases 
+ 
 Link
 # Project description:
 In this project, we tried to proove the correlation betwwen the impact of the Covid-19 on job offers on the French market, and the evolution between each business lines prior to Covid-19 until now (2021 third semester)
@@ -23,7 +18,13 @@ In this project, we tried to proove the correlation betwwen the impact of the Co
 The question we asked ourselves is the following : what is the correlation between the job offers in the French departments and 
 
 # Workflow
+- First day
 
+- Second day
+- third day 
+- last day 
+
+Databases
 # Databases 
 We used data from : 
 - <a href="https://www.data.gouv.fr/fr/datasets/chiffres-cles-concernant-lepidemie-de-covid19-en-france/">Covid-19 data</a>
