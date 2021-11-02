@@ -34,4 +34,4 @@ We used data from :
 # Links
 * <a href="https://trello.com/b/xzHaVUwm/kanban-template">Trello</a>
 * Livrable
-*  
+*  k
