@@ -15,12 +15,14 @@ Link
 In this project, we tried to proove the correlation betwwen the impact of the Covid-19 on job offers on the French market, and the evolution between each business lines prior to Covid-19 until now (2021 third semester)
 
 # Question
-The question we asked ourselves is the following : what is the correlation between the job offers in the French departments and 
+The question we asked ourselves is the following : what is the correlation between the job offers in the French departments and the impact of Covid? 
 
 # Workflow
 - First day
+Working as a group to find a subject and datas available online 
 
 - Second day
+Find 
 - third day 
 - last day 
 
