@@ -36,7 +36,7 @@ Finalisation du sujet, conclusion et présentation
 # Databases 
 Les bases de données utilisées sont le suivantes: 
 - <a href="https://www.data.gouv.fr/fr/datasets/chiffres-cles-concernant-lepidemie-de-covid19-en-france/">Données de l'épidémie de Covid </a> 
-- <a href="https://statistiques.pole-emploi.org/offres/offres?fk=D&lc=0&nd=0&pp=20203-20211&ss=1">répartition des offres d'emploi sur le marché français par département et par famille de métiers du 1er Trimestre 2021 au 1er trimestre 2021 </a>  
+- <a href="https://statistiques.pole-emploi.org/offres/offres?fk=D&lc=0&nd=0&pp=20203-20211&ss=1">Répartition des offres d'emploi sur le marché français par département et par famille de métiers du 1er Trimestre 2021 au 1er trimestre 2021 </a>  
 ## Liens utiles
 * <a href="https://trello.com/b/xzHaVUwm/kanban-template">Trello</a>
 * <a href="https://docs.google.com/presentation/d/1VQhlde46qxYaItjxyCg-kpVWeI2OvnCDkj1UFKKT3V0/edit?usp=sharing">Présentation</a>
