@@ -5,14 +5,15 @@
 Membres du groupe: Harkirat Kaur & Pauline Dhenin 
 
 # Sommaire  : 
-<a href="ancres.html#Description du projet">Description du projet</a><br />
+>Description du projet
+
 >Question
 
 >Workflow 
  
 >Liens
 
-## Description du projet
+## [Description du projet]
 Dans ce projet, il s'agissait de trouver une corrélation éventuelle entre l'impact du Covid-19 sur les offres d'emploi publiées en France sur Pôle emploi par département et l'évolution sur une période donnée depuis le début de l'épidémie et jusqu'au 1er trimestre de l'année 2021.   
 
 ## Problématique
