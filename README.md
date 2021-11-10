@@ -2,7 +2,7 @@
 
 
 # Projet  : Offres d'emploi sur le marché français et l'impact du Covid-19 
-Membres du groupe: Harkirat Kaur & Pauline Dhenin 
+Membres du groupe: Pauline Dhenin & Harkirat Kaur
 
 # Sommaire  : 
 >Description du projet
